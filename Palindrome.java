@@ -5,4 +5,6 @@ public class Palindrome{
 	//Ignore upper and lower case. 'Hannah' is a palindrome, too.
 	//Ignore also spaces. 'Taco cat' is a valid palindrome.
 
+	//Not implemented
+
 }
